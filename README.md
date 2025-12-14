@@ -1,1 +1,3 @@
 # Dashboards
+
+[Financial Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2U0NDVkNmEtN2IzYi00NDk5LWE3MzQtZDkzYzliZDM3ZWUzIiwidCI6IjlkNzVlYWRkLWRiOGMtNDFiYS1hZDliLWVhYzIxM2Y5N2RmOCJ9)
